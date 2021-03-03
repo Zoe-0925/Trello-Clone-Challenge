@@ -7,18 +7,18 @@ import MyDroppable from "../DragDrop/Droppable"
 import { v4 as uuidv4 } from 'uuid'
 
 const cards = [
-    { id: "1", index: 0, summary: "Card 1", description: "...", img: "" },
-    { id: "2", index: 1, summary: "Card 2", description: "...", img: "" },
-    { id: "3", index: 2, summary: "Card 3", description: "...", img: "" },
-    { id: "4", index: 3, summary: "Card 4", description: "...", img: "" },
-    { id: "5", index: 0, summary: "Card 5", description: "...", img: "" },
-    { id: "6", index: 1, summary: "Card 6", description: "...", img: "" },
-    { id: "7", index: 2, summary: "Card 7", description: "...", img: "" },
-    { id: "8", index: 3, summary: "Card 8", description: "...", img: "" },
-    { id: "9", index: 0, summary: "Card 9", description: "...", img: "" },
-    { id: "10", index: 1, summary: "Card 10", description: "...", img: "" },
-    { id: "11", index: 2, summary: "Card 11", description: "...", img: "" },
-    { id: "12", index: 3, summary: "Card 12", description: "...", img: "" }
+    { id: "1", index: 0, summary: "Upload iteration backlog", description: "...", img: "" },
+    { id: "2", index: 1, summary: "AWS essential training", description: "...", img: "" },
+    { id: "3", index: 2, summary: "Sketch prototype", description: "...", img: "" },
+    { id: "4", index: 3, summary: "Present prototype and validate the solution", description: "...", img: "" },
+    { id: "5", index: 0, summary: "Deliver high-fidelity prototype", description: "...", img: "" },
+    { id: "6", index: 1, summary: "Design the system architecture", description: "...", img: "" },
+    { id: "7", index: 2, summary: "Make testing plans", description: "...", img: "" },
+    { id: "8", index: 3, summary: "Set up the environment", description: "...", img: "" },
+    { id: "9", index: 0, summary: "Build the landing page", description: "...", img: "" },
+    { id: "10", index: 1, summary: "Set up the database", description: "...", img: "" },
+    { id: "11", index: 2, summary: "Build the server", description: "...", img: "" },
+    { id: "12", index: 3, summary: "Deliver Web Api", description: "...", img: "" }
 ]
 
 const mockColumns = [
