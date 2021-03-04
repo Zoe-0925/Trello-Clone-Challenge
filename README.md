@@ -1,4 +1,5 @@
-# Trello Clone - Coding Challenge (Coded and delivered in 2h)
+# Trello Clone - Coding Challenge 
+# (Coded and delivered in 2h)
 A SPA front-end clone of Trello with the dragging feature enabled in React and SASS.
 
 ## Description
